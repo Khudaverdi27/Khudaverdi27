@@ -66,6 +66,8 @@
 
 <p align="left">https://sinaps.az/ Web solutions agency<br>https://music-player-lyart-one.vercel.app/  Music Player<br><br>https://todo-list-one-psi-50.vercel.app/ Todo App<br><br>https://crud-app-dusky-iota.vercel.app/ CRUD app<br><br>https://weather-app-navy-mu.vercel.app/ Weather app<br><br>https://booking-panel-one.vercel.app/ Booking panel</p>
 
+<h2 align="left">My statistcs</h2>
+
 [![Khudaverdi27's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khudaverdi27)](https://github.com/Khudaverdi27/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khudaverdi27&layout=compact)](https://github.com/Khudaverdi27/github-readme-stats)
