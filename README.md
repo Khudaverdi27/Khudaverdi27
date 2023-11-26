@@ -68,7 +68,8 @@
 
 <h2 align="left">My statistcs</h2>
 
-[![Khudaverdi27's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khudaverdi27)](https://github.com/Khudaverdi27/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Khudaverdi27)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khudaverdi27&show_icons=true&count_private=true&hide=prs&theme=algolia)](https://github.com/Khudaverdi27/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khudaverdi27&layout=compact)](https://github.com/Khudaverdi27/github-readme-stats)
+
 
