@@ -71,6 +71,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Khudaverdi27)](https://git.io/streak-stats)
 
 <h2 align="left">My Summary</h2>
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khudaverdi27&show_icons=true&count_private=true&hide=prs&theme=algolia)](https://github.com/Khudaverdi27/github-readme-stats)
 
 
