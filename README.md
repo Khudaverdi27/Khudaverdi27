@@ -67,3 +67,9 @@
 <p align="left">https://sinaps.az/ Web solutions agency<br>https://music-player-lyart-one.vercel.app/  Music Player<br><br>https://todo-list-one-psi-50.vercel.app/ Todo App<br><br>https://crud-app-dusky-iota.vercel.app/ CRUD app<br><br>https://weather-app-navy-mu.vercel.app/ Weather app<br><br>https://booking-panel-one.vercel.app/ Booking panel</p>
 
 ###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
