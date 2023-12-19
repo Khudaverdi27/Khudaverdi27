@@ -64,8 +64,8 @@
 
 ###
 
-<p align="left">* Front-end developer-intern / Sinaps Solutions
- (April 2023 - July 2023)<br>*Freelance Web Developer / ATL academy (July 2023 -Present)</p>
+<p align="left">* Freelance Web Developer / ATL academy (July 2023 -Present)<br>* Front-end developer-intern / Sinaps Solutions
+ (April 2023 - July 2023)</p>
 
 ###
 
