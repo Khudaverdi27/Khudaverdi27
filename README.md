@@ -64,7 +64,8 @@
 
 ###
 
-<p align="left">* Freelance Web Developer / Sinaps.az (May 2023 - July 2023)<br>* Web Developer / ATL academy (July 2023 - Dec 2023)</p>
+<p align="left">* Front-end developer-intern / Sinaps Solutions
+ (April 2023 - July 2023)<br>*Freelance Web Developer / ATL academy (July 2023 -Present)</p>
 
 ###
 
@@ -72,7 +73,7 @@
 
 ###
 
-<p align="left">https://sinaps.az/ Web solutions agency<br> https://gamboo.io/ Gamboo <br><br> https://oxoix.com/ OXOIX<br><br> https://hattrickt.com/ Hattrickt <br><br>https://weather-app-navy-mu.vercel.app/ Weather app<br><br>https://booking-panel-one.vercel.app/ Booking panel</p>
+<p align="left">https://sinaps.az/ Web solutions agency<br><br> https://gamboo.io/ Gamboo <br><br> https://oxoix.com/ OXOIX<br><br> https://hattrickt.com/ Hattrickt <br><br>https://weather-app-navy-mu.vercel.app/ Weather app<br><br>https://booking-panel-one.vercel.app/ Booking panel</p>
 
 <h2 align="left">My statistcs</h2>
 
