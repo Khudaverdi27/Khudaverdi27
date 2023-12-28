@@ -73,7 +73,7 @@
 
 ###
 
-<p align="left">https://sinaps.az/ Web solutions agency<br><br> https://gamboo.io/ Gamboo <br><br> https://oxoix.com/ OXOIX<br><br> https://hattrickt.com/ Hattrickt <br><br>https://weather-app-navy-mu.vercel.app/ Weather app<br><br>https://booking-panel-one.vercel.app/ Booking panel</p>
+<p align="left">https://sinaps.az/ Web solutions agency<br><br> https://gamboo.io/ Gamboo <br><br> https://oxoix.com/ OXOIX<br><br> https://hattrickt.com/ Hattrickt <br><br>https://e-xclusive.vercel.app/ Exclusive e-commerce page<br><br>https://booking-panel-one.vercel.app/ Booking panel</p>
 
 <h2 align="left">My statistcs</h2>
 
