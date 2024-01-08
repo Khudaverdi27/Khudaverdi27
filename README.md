@@ -85,6 +85,8 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khudaverdi27&show_icons=true&count_private=true&hide=prs&theme=algolia)](https://github.com/Khudaverdi27/github-readme-stats)
 
 
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Khudaverdi27&label=Profile%20Views&pretty=false" />
+</a>
 
 
