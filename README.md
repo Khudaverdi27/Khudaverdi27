@@ -78,7 +78,7 @@
 
 <h2 align="left">My statistcs</h2>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Khudaverdi27&theme=material" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Khudaverdi27)](https://git.io/streak-stats)
 
 <h2 align="left">My Summary</h2>
 
