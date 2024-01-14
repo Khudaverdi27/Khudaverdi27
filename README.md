@@ -57,7 +57,7 @@
 
 ###
 
-<p align="left">I am passionate about web standards and keep abreast of new developments in our industry. I always look for opportunities to improve my skills. I like to show off what I am working on and also learn from others. I have strong attention to detail and value the design of a product as much as I value the code. Skilled in HTML, CSS,SASS,SCSS,Tailwind CSS,Bootstrap, JavaScript,ReactJs.Strong engineering professional with a Bachelor's and Master's degree focused in Information and Management from Azerbaijan State University of Economics.</p>
+<p align="left">I am passionate about web standards and keep abreast of new developments in our industry. I always look for opportunities to improve my skills. I like to show off what I am working on and also learn from others. I have strong attention to detail and value the design of a product as much as I value the code. Skilled in HTML, CSS,SASS,Ant Design,Tailwind CSS,Bootstrap, JavaScript,ReactJs.Strong engineering professional with a Bachelor's and Master's degree focused in Information and Management from Azerbaijan State University of Economics.</p>
 
 ###
 
