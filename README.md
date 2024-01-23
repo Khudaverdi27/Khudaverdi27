@@ -74,7 +74,7 @@
 
 ###
 
-<p align="left">https://sinaps.az/ Web solutions agency<br><br> https://gamboo.io/ Gamboo <br><br> https://oxoix.com/ OXOIX<br><br> https://hattrickt.com/ Hattrickt <br><br>https://e-xclusive.vercel.app/ Exclusive e-commerce page<br><br>https://booking-panel-one.vercel.app/ Booking panel<br><br>https://aster-news-mu.vercel.app/ Aster News web-site</p><br><br>
+<p align="left">https://sinaps.az/ Web solutions agency<br><br> https://gamboo.io/ Gamboo <br><br> https://oxoix.com/ OXOIX<br><br> https://hattrickt.com/ Hattrickt <br><br>https://e-xclusive.vercel.app/ Exclusive e-commerce page<br><br>https://booking-panel-one.vercel.app/ Booking panel<br><br>https://asterinfo.vercel.app/ Aster News web-site</p><br><br>
 
 <h2 align="left">My statistcs</h2>
 
