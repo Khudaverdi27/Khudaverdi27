@@ -65,7 +65,7 @@
 
 ###
 
-<p align="left">* Freelance Web Developer / ATL academy (July 2023 -Current)<br>* Front-end developer-intern / Sinaps Solutions
+<p align="left">* Freelance Web Developer / ATL academy (October 2023 -Current)<br>* Front-end developer-intern / Sinaps Solutions
  (April 2023 - July 2023)</p>
 
 ###
@@ -74,7 +74,7 @@
 
 ###
 
-<p align="left">https://sinaps.az/ Web solutions agency<br><br> https://gamboo.io/ Gamboo <br><br> https://fikiral-az.vercel.app/ Fikir Al <br><br> https://hattrickt.com/ Hattrickt <br><br>https://e-xclusive.vercel.app/ Exclusive e-commerce page<br><br>https://booking-panel-one.vercel.app/ Booking panel<br><br>https://aster-news-mu.vercel.app/ Aster News web-site</p><br><br>
+<p align="left">https://sinaps.az/ Web solutions agency<br><br> https://fikiral-az.vercel.app/ Fikir Al <br><br> https://justforhorns.com/ JustForHorns <br><br>https://e-xclusive.vercel.app/ Exclusive e-commerce page<br><br>https://booking-panel-one.vercel.app/ Booking panel<br><br>https://aster-news-mu.vercel.app/ Aster News web-site</p><br><br>
 
 <h2 align="left">My statistcs</h2>
 
