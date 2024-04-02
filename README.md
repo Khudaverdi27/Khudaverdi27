@@ -74,7 +74,7 @@
 
 ###
 
-<p align="left">https://sinaps.az/ Web solutions agency<br><br> https://fikiral-az.vercel.app/ Fikir Al <br><br> https://justforhorns.com/ JustForHorns <br><br>https://e-xclusive.vercel.app/ Exclusive e-commerce page<br><br>https://booking-panel-one.vercel.app/ Booking panel<br><br>https://aster-news-mu.vercel.app/ Aster News web-site</p><br><br>
+<p align="left">https://sinaps.az/ Web solutions agency<br><br> https://fikiral.az/ Fikir Al <br><br> https://justforhorns.com/ JustForHorns <br><br>https://e-xclusive.vercel.app/ Exclusive e-commerce page<br><br>https://booking-panel-one.vercel.app/ Booking panel<br><br>https://aster-news-mu.vercel.app/ Aster News web-site</p><br><br>
 
 <h2 align="left">My statistcs</h2>
 
