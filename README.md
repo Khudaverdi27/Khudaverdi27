@@ -67,8 +67,8 @@
 
 ###
 
-<p align="left">* Freelance Web Developer / ATL academy (October 2023 -Current)<br>* Front-end developer- / Sinaps Solutions Startup
- (April 2023 - July 2023)</p>
+<p align="left">* Freelance Web Developer / ATL academy (October 2023 -Current)<br>* Front-end developer- / SK Webline Ltd
+ (March 2022 - May 2023)</p>
 
 ###
 
