@@ -76,7 +76,7 @@
 
 ###
 
-<p align="left">https://dizaynim.az/ Dizayn services agency<br><br> https://fikiral.az/ Fikir Al <br><br> https://memorial.az/ Azerbaijan heroes <br><br>https://e-xclusive.vercel.app/ Exclusive e-commerce page<br><br>https://booking-panel-one.vercel.app/ Booking panel<br><br>https://aster-news-mu.vercel.app/ Aster News web-site</p><br><br>
+<p align="left">https://dizaynim.az/ Dizayn services agency<br><br> https://fikiral.az/ Fikir Al <br><br> https://memorial.az/ Azerbaijan heroes <br><br>https://e-xclusive.vercel.app/ Exclusive e-commerce page<br><br>https://edurive.az/ Drivers course<br><br>https://qonaqol.az/ Travel website</p><br><br>
 
 <h2 align="left">My statistcs</h2>
 
