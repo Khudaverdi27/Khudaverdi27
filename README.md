@@ -68,6 +68,7 @@
 ###
 
 <p align="left">* Freelance Web Developer / ATL academy (October 2023 -Current)<br>* Front-end developer- / SK Webline Ltd
+ (June 2023 - August 2024)</p> <br>* Front-end developer- / Kapital Bank
  (March 2022 - May 2023)</p>
 
 ###
